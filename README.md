@@ -1,3 +1,7 @@
+# Demo
+
+https://github.com/user-attachments/assets/603f1e9d-4f79-4776-873d-9000aa3ab016
+
 # Astro Starter Kit: Basics
 
 ```sh
